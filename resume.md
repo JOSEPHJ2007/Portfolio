@@ -1,11 +1,3 @@
----
-margin:
-  top: 20mm
-  bottom: 20mm
-  left: 20mm
-  right: 20mm
----
-
 # **Joseph J**
 **Computer Science Student | Web Developer | Aspiring Software Engineer**
 Kerala, India | josephjthottupuram@gmail.com | +91 7306861012
@@ -38,6 +30,3 @@ Expected Graduation: 2029 | CGPA: 8.74
 
 ## **Experience & Objectives**
 I am currently pursuing a B.Tech in Computer Science and am actively seeking internship opportunities in Software Development and Web Development. I enjoy solving programming challenges, collaborating with teams, and continuously learning new technologies to build impactful software.
-
----
-*References available upon request.*
