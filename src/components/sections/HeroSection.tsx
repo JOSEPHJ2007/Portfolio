@@ -32,7 +32,7 @@ export function HeroSection() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.1 }}
-            className="text-5xl md:text-7xl font-extrabold tracking-tight mb-4"
+            className="text-4xl sm:text-5xl md:text-7xl font-extrabold tracking-tight mb-4"
           >
             Hi, I'm <span className="text-gradient">Joseph J</span>
           </motion.h1>
