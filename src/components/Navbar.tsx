@@ -29,7 +29,7 @@ export function Navbar() {
   return (
     <header
       className={`fixed top-0 w-full z-50 transition-all duration-300 ${
-        isScrolled ? "glass shadow-sm py-3" : "bg-transparent py-5"
+        isScrolled ? "bg-background/70 backdrop-blur-md shadow-sm border-b border-border/50 py-3" : "bg-background/40 backdrop-blur-sm py-5"
       }`}
     >
       <div className="container mx-auto px-4 md:px-8">
@@ -73,7 +73,7 @@ export function Navbar() {
             initial={{ opacity: 0, y: -20 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -20 }}
-            className="md:hidden absolute top-full left-0 w-full glass border-t border-border shadow-lg"
+            className="md:hidden absolute top-full left-0 w-full bg-background/80 backdrop-blur-xl border-t border-border/50 shadow-lg"
           >
             <nav className="flex flex-col p-4">
               {navLinks.map((link) => (
