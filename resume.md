@@ -1,13 +1,16 @@
+<div class="center-text">
+
 # **Joseph J**
 **Computer Science Student | Web Developer | Aspiring Software Engineer**
+
 Kerala, India | josephjthottupuram@gmail.com | +91 7306861012
 GitHub: [github.com/JOSEPHJ2007](https://github.com/JOSEPHJ2007) | LinkedIn: [linkedin.com/in/joseph-j-86021a283](https://www.linkedin.com/in/joseph-j-86021a283)
 
----
+</div>
 
 ## **Education**
-**Bachelor of Technology in Computer Science**
-*Amal Jyothi College of Engineering (Autonomous)*
+**Bachelor of Technology in Computer Science**  
+*Amal Jyothi College of Engineering (Autonomous)*  
 Expected Graduation: 2029 | CGPA: 8.74
 
 ## **Technical Skills**
